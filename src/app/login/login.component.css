@@ -1,0 +1,11 @@
+h1{
+  margin: 30px
+}
+input{
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+label{
+  color: #3e3e3e;
+}
