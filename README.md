@@ -4,10 +4,10 @@
 Open Screenshots folder to view the application screenshots.
 
 GitHub Frontend Repo:
-
+https://github.com/electruh/101308759_Comp3133_Assignment1.git
 
 Render Backend Deployment Link:
 https://one01308759-comp3133-assignment1-o7v4.onrender.com
 
-Vercel Frontend Deployment Link: 
-
+Vercel Frontend Deployment Link:
+https://101308759-comp3133-assignment2.vercel.app
