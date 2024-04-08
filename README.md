@@ -3,7 +3,7 @@
 
 Open Screenshots folder to view the application screenshots.
 
-GitHub Frontend Repo:
+GitHub Backend Repo:
 https://github.com/electruh/101308759_Comp3133_Assignment1.git
 
 Render Backend Deployment Link:
